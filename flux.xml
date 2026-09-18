@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antifeed</title>
+    <link>https://antifeed.fr/</link>
+    <atom:link href="https://antifeed.fr/flux.xml" rel="self" type="application/rss+xml"/>
+    <description>Je choisis à la main trois vidéos par semaine pour faire avancer ton marketing, tes ventes et ta façon de travailler avec l'IA. Regarde, puis ferme l'onglet.</description>
+    <language>fr</language>
+    <item>
+      <title>Anthropic Engineer Explains: What to Build Instead of AI Agents</title>
+      <link>https://antifeed.fr/editions/2026-09-18-skills-plutot-que-agents/</link>
+      <guid>https://antifeed.fr/editions/2026-09-18-skills-plutot-que-agents/</guid>
+      <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
+      <category>vision</category>
+      <description>Pourquoi cette vidéo. Anthropic ne construit plus un agent par tâche : un agent générique reçoit des skills, comme un téléphone reçoit des applications. Nate Herk résume ce…</description>
+    </item>
+    <item>
+      <title>AI SEO for Beginners (AEO Tutorial!)</title>
+      <link>https://antifeed.fr/editions/2026-09-16-tuto-aeo-sabrina-ramonov/</link>
+      <guid>https://antifeed.fr/editions/2026-09-16-tuto-aeo-sabrina-ramonov/</guid>
+      <pubDate>Wed, 16 Sep 2026 04:00:00 GMT</pubDate>
+      <category>actionnable</category>
+      <description>Pourquoi cette vidéo. Être cité par ChatGPT, Gemini ou Claude devient un canal d'acquisition à part entière : Ahrefs mesure que l'IA lui apporte 0,5 % de son trafic mais 12 % de…</description>
+    </item>
+    <item>
+      <title>How To Connect Claude To LinkedIn (Step by Step)</title>
+      <link>https://antifeed.fr/editions/2026-09-14-claude-branche-sur-linkedin/</link>
+      <guid>https://antifeed.fr/editions/2026-09-14-claude-branche-sur-linkedin/</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:00 GMT</pubDate>
+      <category>actionnable</category>
+      <description>Pourquoi cette vidéo. LinkedIn est l'endroit où ton audience travaille, et brancher Claude dessus paraissait réservé aux bidouilleurs. Harry Long montre que l'extension Chrome de…</description>
+    </item>
+    <item>
+      <title>tu trouves CLAUDE CODE trop cher ? regarde ce qu'il te fait gagner</title>
+      <link>https://antifeed.fr/editions/2026-09-04-claude-code-trop-cher/</link>
+      <guid>https://antifeed.fr/editions/2026-09-04-claude-code-trop-cher/</guid>
+      <pubDate>Fri, 04 Sep 2026 04:00:00 GMT</pubDate>
+      <category>vision</category>
+      <description>Pourquoi cette vidéo. Tout le monde trouve les abonnements IA chers, presque personne ne calcule ce qu'ils rapportent. Anthony Marandon pose les chiffres sur la table : le détail…</description>
+    </item>
+    <item>
+      <title>I cancelled Apollo.io and built this Claude skill instead</title>
+      <link>https://antifeed.fr/editions/2026-09-02-skill-claude-remplace-apollo/</link>
+      <guid>https://antifeed.fr/editions/2026-09-02-skill-claude-remplace-apollo/</guid>
+      <pubDate>Wed, 02 Sep 2026 04:00:00 GMT</pubDate>
+      <category>actionnable</category>
+      <description>Pourquoi cette vidéo. Eric Nowoslawski envoie trois millions d'emails par mois pour ses clients, et il vient d'annuler Apollo. À la place, une skill Claude qui ratisse plusieurs…</description>
+    </item>
+    <item>
+      <title>How to Get AI to Recommend Your Brand in 16 minutes (AEO Playbook)</title>
+      <link>https://antifeed.fr/editions/2026-08-31-playbook-aeo-grace-leung/</link>
+      <guid>https://antifeed.fr/editions/2026-08-31-playbook-aeo-grace-leung/</guid>
+      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
+      <category>actionnable</category>
+      <description>Pourquoi cette vidéo. L'AEO n'obéit pas aux règles du SEO : SparkToro a testé 3 000 prompts et obtenu moins d'une chance sur 100 de voir deux fois la même marque recommandée.…</description>
+    </item>
+  </channel>
+</rss>
